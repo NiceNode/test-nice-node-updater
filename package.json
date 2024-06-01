@@ -94,7 +94,7 @@
     "electron-store": "^8.1.0",
     "highcharts": "^11.0.0",
     "highcharts-react-official": "^3.2.1",
-    "i18next": "^23.6.0",
+    "i18next": "^23.11.5",
     "i18next-browser-languagedetector": "^7.0.1",
     "i18next-cli-language-detector": "^1.1.8",
     "iconv-lite": "^0.6.3",
