@@ -79,7 +79,7 @@
     "wdio-wait-for": "^3.0.11"
   },
   "dependencies": {
-    "@reduxjs/toolkit": "^1.9.3",
+    "@reduxjs/toolkit": "^2.2.5",
     "@sentry/electron": "^4.10.0",
     "@vanilla-extract/css": "^1.14.2",
     "@vscode/sudo-prompt": "^9.3.1",
